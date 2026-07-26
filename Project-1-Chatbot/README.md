@@ -2,7 +2,7 @@
 
 ## Goal
 Create a simple rule based chatbot that responds to predefined user inputs
-using explicit if-else / dictionary logic, running in a continuous loop.
+using explicit if else / dictionary logic, running in a continuous loop.
 
 ## Key Requirements
 - Handle greetings and exit commands
