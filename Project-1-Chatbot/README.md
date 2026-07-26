@@ -38,3 +38,6 @@ DecodeBot: Hi there! What can I do for you?
 You: exit
 DecodeBot: Goodbye! Have a great day.
 ```
+
+## Output Screenshot
+![Chatbot Output](./output%20image%20for%20project%201.jpeg)
