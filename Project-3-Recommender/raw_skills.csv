@@ -1,0 +1,11 @@
+job_role,skills
+Data Scientist,"Python SQL Machine Learning Data Analysis Statistics Pandas NumPy"
+DevOps Engineer,"AWS Docker Kubernetes CI/CD Linux Automation Cloud"
+Backend Developer,"Java Python SQL APIs Spring Boot Databases REST"
+Frontend Developer,"JavaScript React CSS HTML UI Design Web Development"
+Cloud Architect,"AWS Azure Cloud Computing Automation Networking Security"
+Machine Learning Engineer,"Python Machine Learning TensorFlow PyTorch Data Structures Algorithms"
+Cybersecurity Analyst,"Networking Security Linux Firewalls Penetration Testing Cloud"
+Database Administrator,"SQL Databases Data Structures Backup Recovery Performance Tuning"
+Full Stack Developer,"JavaScript Python React APIs Databases Web Development Git"
+Sys Admin,"Linux Networking Automation Docker Kubernetes Cloud Git"
