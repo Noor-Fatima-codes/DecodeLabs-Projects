@@ -11,7 +11,7 @@ to more advanced AI concepts.
 ## Projects
 
 **[Project 1: Rule-Based AI Chatbot](./Project-1-Chatbot)** — A simple chatbot using if else/dictionary logic to respond to predefined user inputs.
-- **[Project 2: Data Classification (Fake News Detection)](./Project-2-Classification)** — An SVM based classifier that detects fake news using NLP preprocessing (TF-IDF + SVD) and supervised learning.
+**[Project 2: Data Classification (Fake News Detection)](./Project-2-Classification)** — An SVM based classifier that detects fake news using NLP preprocessing (TF-IDF + SVD) and supervised learning.
 *(More projects will be added here as the internship progresses)*
 
 ## Author
