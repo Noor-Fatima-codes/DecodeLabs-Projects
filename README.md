@@ -14,6 +14,8 @@ to more advanced AI concepts.
 
 
 **[Project 2: Data Classification (Fake News Detection)](./Project-2-Classification)** — An SVM based classifier that detects fake news using NLP preprocessing (TF-IDF + SVD) and supervised learning.
+
+**[Project 3: AI Recommendation Logic (Tech Stack Recommender)](./Project-3-Recommender)** — A content-based recommendation engine that matches user skills to job roles using TF IDF and Cosine Similarity.
 *(More projects will be added here as the internship progresses)*
 
 ## Author
